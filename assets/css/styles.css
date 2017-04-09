@@ -29,6 +29,7 @@ p
 {
 	margin: 0 0 1.5em;
 	line-height: 1.5;
+    padding: 5px;
 }
 
 blockquote
@@ -114,8 +115,8 @@ Layout styles
 }
 
 .NHS{
-	width:200px;
-	height:50px;
+	width:250px;
+	height:80px;
 	}
 
 .HomeIcon{
@@ -124,6 +125,10 @@ padding: 25px;
 
 }
 
+li{
+padding: 5px;
+margin: 5px;
+}
 
 /* -----------------------
 Nav
